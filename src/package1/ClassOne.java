@@ -6,6 +6,7 @@ public class ClassOne {
 
 
         System.out.println("Hello world");
+        System.out.println("Batch 35 / 36 learn Github");
 
 
     }
